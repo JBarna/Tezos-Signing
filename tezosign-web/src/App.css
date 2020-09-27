@@ -1,0 +1,46 @@
+.doc-section {
+  margin: 20px;
+  padding-top: 50px;
+  text-align: center;
+  border: 1px solid lightgray;
+  height: 100vh;
+  background: white;
+}
+
+.success {
+  color: green;
+}
+
+.error {
+  color: red;
+}
+
+.file-uploader {
+  padding: 50px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.navbar-item img {
+  max-height: 2.25rem !important;
+}
+
+.centered {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.full-content {
+  height: 100vh;
+  background: white;
+  text-align: center;
+}
+
+.action-button {
+  margin-top: 200px;
+}
+
+.App {
+  background: lightgray;
+  /* TODO: add url bg */
+}
